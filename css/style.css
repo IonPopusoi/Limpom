@@ -1,0 +1,66 @@
+body { 
+	font-family: Open Sans; 
+	color: #7581a1;
+	font-size: 16px;
+	line-height: 26px;
+}
+a{
+	text-decoration: none;
+}
+
+h1{
+	font-size:80px;
+	font-weight: 600;
+	color: #192b59;
+	text-transform: capitalize;
+}
+
+.nav{
+	color: #6e7ea9;
+	font-size: 12px;
+	text-transform: uppercase;
+	font-weight: 700;
+}
+.btn-free{
+	background-color: #1085e4;
+	color: #ffffff;
+	font-size: 12px;
+	font-weight: 400;
+}
+.first-btn{
+	color: #fff;
+	background-color: #1085e4;
+	font-size: 12px;
+	font-weight: 700;
+}
+.second-btn{
+	color: #8f9cba;
+	background-color: #cbdbe8;
+	font-size: 12px;
+	font-weight: 700;
+}
+
+.grid h2 {
+	font-size: 40px;
+	font-weight: 700;
+	color: #192b59;
+}
+
+.grid h2 span{
+	color: #1085e4;
+	font-size: 14px;
+	font-weight: 800;
+	display: block;
+}
+
+.grid-item h3 {
+	color: #192b59;
+	font-size: 21px;
+	font-weight:700 ;
+}
+.grid-item a {
+	color: #1085e4;
+	font-size: 14px;
+	font-weight: 600;
+	text-transform: capitalize;
+}
